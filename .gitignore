@@ -1,0 +1,10 @@
+
+# Ignore private config
+config/config_private.json
+
+# Optional: Ignore runtime data and cache
+__pycache__/
+*.pyc
+output/
+logs/
+
